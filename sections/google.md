@@ -4,7 +4,7 @@
 
 Our weather app is working pretty well, but you may have noticed that it's case sensitive:
 
-```python
+```
 What is the weather like today? snowy
 Bring your wooly muffler
 What is the weather like today? SNOWY
