@@ -33,6 +33,8 @@ Variables can be longer words as well:
 
 Variables can have letters, numbers, and underscores, but should start with a letter. 
 
+If you are curious about learning more about naming conventions for variables, you can check out the PEP8 style guide's section on [Naming Conventions](https://www.python.org/dev/peps/pep-0008/#naming-conventions). PEP8 is the widely accepted guide for Python programmers everywhere. 
+
 ## Challenge
 
 So I just told you that variables shouldn't start with a number or an underscore. What does that even mean? Will your computer explode if you write `3_flower = "buttercup"`?
