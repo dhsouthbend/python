@@ -12,7 +12,7 @@ By the end of this workshop, participants will:
 - Learn how to find and import code from external sources to solve more complex problems.
 
 [Get Started >>>](sections/repl.md)  
-[Glossary >>>](https://github.com/DHRI-Curriculum/glossary/blob/master/sections/python.md#python)
+[Glossary >>>](https://github.com/dhsouthbend/glossary/blob/master/sections/python.md#python)
 
 -----
 
