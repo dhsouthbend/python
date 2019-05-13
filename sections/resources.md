@@ -4,7 +4,7 @@
 
 [Learn Python the Hard Way](http://learnpythonthehardway.org/book/) - An example-driven introduction to Python.
 
-[How to Think Like a Computer Scientist - Python Edition](http://interactivepython.org/courselib/static/thinkcspy/index.html) - A good intro if you're also interested in learning basic computer science concepts.
+[How to Think Like a Computer Scientist - Python Edition](https://runestone.academy/runestone/static/thinkcspy/index.html) - A good intro if you're also interested in learning basic computer science concepts.
 
 [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/) - A fun book that teaches Python while automating some common (and annoying) tasks.
 
