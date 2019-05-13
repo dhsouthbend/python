@@ -31,7 +31,7 @@ By the end of this workshop, participants will:
 
 -----
 
-Session Leader: Patrick Smyth  
+Session Leader: Caroline McCraw  
 Based on previous work by: Patrick Smyth  
 
 [![Creative Commons License](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)
