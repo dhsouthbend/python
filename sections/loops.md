@@ -59,7 +59,7 @@ flowers = ['rose', 'violet', 'buttercup']
 # print(flowers)
 
 for flower in flowers:
-    print("My favorite flower is the" + flower)
+    print("My favorite flower is the " + flower)
 ```
 
 What's happening here? This kind of loop is called a "for" loop, and tells Python: "for each item in the list, do something." Let's break it down:
