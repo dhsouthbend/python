@@ -10,7 +10,7 @@ Remember lists? They look like this:
 flowers = ['rose', 'violet', 'buttercup']
 ```
 	
-For now, let's just create a list and print it out. Our script will look like this:
+For now, let's just create a list and print it out. In a text editor, our script will look like this:
 
 ```python
 flowers = ['rose', 'violet', 'buttercup']
