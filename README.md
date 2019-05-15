@@ -4,12 +4,12 @@ Python is a general-purpose programming language that is suitable for a wide var
 
 By the end of this workshop, participants will:
 
-- Understand what Python is and, in general terms, what it can do.
-- Run Python programs, both by interacting directly with the interpreter and by preparing and running scripts.
-- Distinguish among five core data types—integers, floats, strings, booleans, and lists.
-- Become familiar with core programming concepts, including variables, loops, and conditionals.
-- Engage with error output and use the internet and documentation to independently research language features.
-- Learn how to find and import code from external sources to solve more complex problems.
+- **Understand what Python is** and, in general terms, what it can do.
+- **Run Python programs**, both by interacting directly with the interpreter and by preparing and running scripts.
+- **Distinguish among five core data types**—integers, floats, strings, booleans, and lists.
+- Become familiar with core programming concepts, including **variables, loops, and conditionals**.
+- **Engage with error output** and use the internet and documentation to independently research language features.
+- Learn how to **find and import code from external sources** to solve more complex problems.
 
 [Get Started >>>](sections/repl.md)  
 [Glossary >>>](https://github.com/dhsouthbend/glossary/blob/master/sections/python.md#python)
