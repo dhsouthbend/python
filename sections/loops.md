@@ -94,6 +94,7 @@ The square of 5 is 25.
 The square of 7 is 49.
 The square of 11 is 121.
 ```
+The solution to this challenge is [here](loop_adv.md). Take a look after you've tried to solve it yourself!
 
 ## A Note on Variable Names
 
