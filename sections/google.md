@@ -28,15 +28,11 @@ This is a lot of work, and it's a pretty ugly solution. If we wanted to add more
 
 Even if you're a super rad Python programmer, you're not going to remember every function name or how to do things you might not have touched in awhile. One thing programmers get very good at is googling for answers. In fact, this is arguably the most important skill in modern-day programming. So let's use Google to find out how to convert strings to lower case.
 
-Let's try the search term <a href="http://lmgtfy.com/?q=make+string+lowercase+Python" target="_blank"><code>make string lowercase Python</code></a>:
+Let's try the search term <a href="https://www.google.com/search?q=make+string+lowercase+Python" target="_blank"><code>make string lowercase Python</code></a>.
 
-![make string lower case Python Google search](google_search.png)  
+While Google searches change over time, some of your results likely come from a site called Stack Overflow. This is a questions and answers site for programmers that usually has strong answers to questions about Python. On [this Stack Overflow page](https://stackoverflow.com/questions/6797984/how-do-i-lowercase-a-string-in-python), take a quick look at the question to make sure it's relevant to your problem. Then scroll down to the answers to find what we're looking for. You may also notice snarky debates -- another "feature" of Stack Overflow. 
 
-While Google searches change over time, some of your results likely come from a site called Stack Overflow. This is a questions and answers site for programmers that usually has strong answers to questions about Python.
-
-![Google search results with stack overflow answer on top](google_result.png)  
-
-On [this Stack Overflow page](https://stackoverflow.com/questions/6797984/how-do-i-lowercase-a-string-in-python), take a quick look at the question to make sure it's relevant to your problem. Then scroll down to the answers to find what we're looking for. You may also notice snarky debates -- another "feature" of Stack Overflow.
+Increasingly, Gooogle search results include AI-generated answers as well. These can be helpful for a well-documented programming language like Python, especially if your query is simple. However, you may miss important points of discussion, and it is tempting to "just trust the AI" rather than fully understand a suggested answer, so use caution.
 
 ## Implementing our answer
 
